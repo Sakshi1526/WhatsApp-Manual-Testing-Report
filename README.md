@@ -1,2 +1,2 @@
 # WhatsApp-Manual-Testing-Report
-This project includes a detailed manual testing report of the WhatsApp mobile application.
+This project includes a detailed manual testing report of the WhatsApp mobile application. It covers test scenarios, test cases, expected and actual results. The testing was done to check key features like messaging, media sharing, group creation, call functionality, and app performance. This project demonstrates basic knowledge of manual testing processes including test planning, execution, and reporting.
